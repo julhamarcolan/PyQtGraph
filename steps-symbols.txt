@@ -1,0 +1,32 @@
+list of the symbols available in this module:
+
+o : Default symbol, round circle symbol 
+t : Triangle pointing downwards symbol 
+t1 : Triangle pointing upwards symbol 
+t2 : Triangle pointing right side symbol 
+t3 : Triangle pointing left side symbol 
+s : Square symbol 
+p : Pentagon symbol 
+h : Hexagon symbol 
+star : Star symbol 
++ : Plus symbol 
+d : Prism symbol 
+x : Cross symbolist of the symbols available in this module:
+
+
+Steps: 
+1. Import pyqtgraph, pyqt5, sys and numpy modules.
+2. Create Main window class.
+3. Create de main class and create the window object inside them. 
+4. Create the Ui_Components function.
+5. Create a widget object (inside the Ui_Components method).
+6. Create a plot window object (inside the Ui_Components method). 
+7. Add legend to the plot window.
+8. Create 12 lines having different points so that they don’t intersect each other 
+and hiving different symbol and colors.
+9. Add the plot window and other widget like label to the grid layout.
+
+
+OBS: The Ui_Components method need to be called inside the constructor.
+
+
