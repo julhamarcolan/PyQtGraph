@@ -1,0 +1,17 @@
+STEPS: 
+
+1. imports.
+2. Create the Window class, the constructor method, the Ui_Components method and the main function.
+3. Set the window geometry and title.
+4. Create a widget object.
+5. Create a label.
+6. Create de plot object.
+7. Create the plot lines 1 and 2.
+8. Set the Grid to the window. 
+9. Set the label. 
+10. Change the line1 symbol size using setSymbolSize.
+11. Create the x and y labels. 
+12. Create the Grid layout.
+13. Add the widget to the layout.
+14. Add the label and the plot to the layout.
+15. set the widget as central widget of the main widow.
