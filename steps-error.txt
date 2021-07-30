@@ -1,0 +1,12 @@
+STEPS: 
+
+1. Import the pyqtgraph and all the other modules. 
+2. Create the window class, the constructor method, the Ui_Components methods and the main function. 
+3. Create a widget object.
+4. Create a label.
+5. Create de plot object.
+6. Create the Grid layout.
+7. Add the widget to the layout.
+8. Add the label and the plot to the layout.
+9. set the widget as central widget of the main wido
+
