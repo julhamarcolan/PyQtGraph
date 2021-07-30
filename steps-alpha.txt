@@ -1,0 +1,16 @@
+Steps: 
+1. Import pyqtgraph, pyqt5, sys and numpy modules.
+2. Create Main window class.
+3. Create the Ui_Components method. 
+4. Create a widget object.
+5. Create a label.
+6. call the Ui_Components method inside the constructor.
+7. Create a plot object.
+8. Create the plot lines 1 and 2.
+9. Set the Grid to the window. 
+10. Plot the lines 1 and 2.
+11. Create the Grid layout.
+12. Add the widget to the layout.
+13. Add the label and the plot to the layout.
+14. set the widget as central widget of the main widow.
+15. Set tha alpha value to the line 1 and line 2.
